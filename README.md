@@ -2,6 +2,7 @@
 ### I live in Sherwood Park AB Canda
 <div id="header" align="center">
   <img src="https://agency7.ca/derscodes.gif" width="100"/>
+  <img src="/derscodes.gif?raw=true" width="200px">
   <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/anders-kitson-5a567849/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
