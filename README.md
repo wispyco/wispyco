@@ -12,6 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=wispyco)](https://git.io/streak-stats)
+
+  - 🔭 I’m currently working on <a href="https://lettabird.com">Lettabird</a>
 </div>
 
 <!--
